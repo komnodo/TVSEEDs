@@ -1,0 +1,15 @@
+{
+    "currency": "",
+    "description": [
+        "L1 data",
+        "L2 data"
+    ],
+    "pricescale": [
+        1000,
+        1000
+    ],
+    "symbol": [
+        "L1",
+        "L2"
+    ]
+}
